@@ -50,6 +50,13 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
+models/
+training/football-players-detection-1/
+yolov8x.pt
+training/yolov5xu.pt
+training/yolov8n.pt
+output_videos/
+input_videos/
 
 # Translations
 *.mo
