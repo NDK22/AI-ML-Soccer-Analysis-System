@@ -22,7 +22,7 @@ The Soccer Analysis System is a cutting-edge project that combines machine learn
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/abdullahtarek/football-analysis-system.git
+   git clone https://github.com/NDK22/AI-ML-Soccer-Analysis-System.git
 
 2. Change directory:
 cd football-analysis-system
