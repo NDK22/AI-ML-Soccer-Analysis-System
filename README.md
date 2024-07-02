@@ -16,9 +16,24 @@ The Soccer Analysis System is a cutting-edge project that combines machine learn
 - **Perspective Transformation**: Applies the perspective transformation to convert measurements from pixels to meters, providing a realistic representation of scene depth and perspective.
 - **Speed and Distance Calculation**: Computes the speed and distance covered by players throughout the game.
 
-### Prerequisites
+## Trained Models
+
+- **YOLO v5**: This pre-trained object detection model is used for detecting players, referees, and soccer balls. YOLO v5 provides high accuracy and efficiency for real-time object detection tasks.
+
+## Output Video
+Click to see the output vidoe
+
+## Requirements
+
+To run this project, you need the following:
+
 - Python 3.x
-- Required Python libraries: `ultralytics`, `supervision`, `opencv-python`, `numpy`, `matplotlib`, `pandas`
+- `ultralytics`
+- `supervision`
+- `OpenCV`
+- `NumPy`
+- `Matplotlib`
+- `Pandas`
 
 ## Datasets
 - **[Kaggle Dataset](https://www.kaggle.com/competitions/dfl-bundesliga-data-shootout/data?select=clips)**: Contains football game data for training and evaluation.
