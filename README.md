@@ -6,6 +6,8 @@ The Soccer Analysis System is a cutting-edge project that combines machine learn
 <p align="center">
   <img src="https://github.com/NDK22/AI-ML-Soccer-Analysis-System/raw/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(2).gif" alt="Soccer Analysis GIF">
 </p>
+
+
 ## Features
 - **Object Detection and Tracking**: Utilizes YOLOv8 for detecting and tracking players, referees, and footballs across frames.
 - **Custom YOLO Model**: Fine-tunes and trains a custom YOLO model for improved accuracy in detecting specific objects.
