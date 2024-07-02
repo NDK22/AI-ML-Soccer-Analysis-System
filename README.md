@@ -27,6 +27,8 @@ The Soccer Analysis System is a cutting-edge project that combines machine learn
 2. Change directory:
 cd football-analysis-system
 
+3. Install the prerequisites
+
 ## Usage
 - Place your video files in the input_videos directory.
 - Run the main script to start the analysis: python main.py
