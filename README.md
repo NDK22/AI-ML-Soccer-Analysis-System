@@ -17,7 +17,7 @@ The Soccer Analysis System is a cutting-edge project that combines machine learn
 - **Speed and Distance Calculation**: Computes the speed and distance covered by players throughout the game.
 
 ## Output Video
-Click [here](https://drive.google.com/file/d/1-8uU1Gh0EbB0Qj8BiZyOclRrZEhlAkUw/view?usp=sharing) to see the output vidoe
+Click [here](https://drive.google.com/file/d/1-8uU1Gh0EbB0Qj8BiZyOclRrZEhlAkUw/view?usp=sharing) to see the output video
 
 ## Requirements
 
